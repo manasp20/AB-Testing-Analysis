@@ -14,10 +14,10 @@ This project serves as a practical application of the skills I developed through
 ---
 
 ## 🛠️ Technical Stack & Tools
-* **Programming & Handling:** Python, Pandas, NumPy (Data Wrangling and Cleaning)[cite: 12].
-* **Visualization:** Matplotlib, Seaborn (Building performance dashboards)[cite: 12].
-* **Statistical Analysis:** SciPy, Statsmodels (Z-tests, Cointegration, Time-Series Analysis)[cite: 12].
-* **Modeling:** Scikit-learn (Linear Regression for conversion forecasting)[cite: 12].
+* **Programming & Handling:** Python, Pandas, NumPy (Data Wrangling and Cleaning).
+* **Visualization:** Matplotlib, Seaborn (Building performance dashboards).
+* **Statistical Analysis:** SciPy, Statsmodels (Z-tests, Cointegration, Time-Series Analysis).
+* **Modeling:** Scikit-learn (Linear Regression for conversion forecasting).
 
 ---
 
