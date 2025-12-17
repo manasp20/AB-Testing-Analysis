@@ -6,10 +6,10 @@ In the modern digital landscape, maximizing **Return on Investment (ROI)** is cr
 ---
 
 ## 💼 Connection to My Professional Background
-This project serves as a practical application of the skills I developed throughout my **5+ years of experience** in technical and business analysis[cite: 5, 15]:
-* **Data-Driven Decision Making:** Applied analytical rigor to translate complex datasets into actionable insights, a core competency from my tenure at **Accenture**[cite: 5, 15].
-* ]**Statistical Rigor:** Implemented **Hypothesis Testing** (Z-tests) and **Regression Analysis**, directly utilizing the technical expertise listed in my Statistics profile[cite: 12].
-* **Automation & Efficiency:** Used **Python** to streamline data processing, mirroring my success in reducing manual reporting efforts by **30-40%** through automation[cite: 12, 16].
+This project serves as a practical application of the skills I developed throughout my **5+ years of experience** in technical and business analysis.
+* **Data-Driven Decision Making:** Applied analytical rigor to translate complex datasets into actionable insights, a core competency from my tenure at **Accenture**.
+* ]**Statistical Rigor:** Implemented **Hypothesis Testing** (Z-tests) and **Regression Analysis**, directly utilizing the technical expertise listed in my Statistics profile.
+* **Automation & Efficiency:** Used **Python** to streamline data processing, mirroring my success in reducing manual reporting efforts by **30-40%** through automation.
 
 ---
 
